@@ -4,6 +4,7 @@
     <list default="true" id="3428368b-e553-46fe-bd37-db8b63f97a3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Gestor-Hotelero" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../angular/angular-spring-boot-mysql" beforeDir="false" afterPath="$PROJECT_DIR$/../angular/angular-spring-boot-mysql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/bg.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/images/img01.jpg" beforeDir="false" />
@@ -28,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -69,7 +70,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
